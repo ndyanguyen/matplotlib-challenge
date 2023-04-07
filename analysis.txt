@@ -1,0 +1,5 @@
+According to the data, the top two drugs that were best for the mice were Capomulin and Ramicane. Infuibnol was a lower outlier  compared to the other drugs.
+
+Also according to the data, it seems that propriva had the least usage compared to all the other drugs.
+
+My last observation is that the weight of mice contributes heavily to the volume of the tumors. If we look at the line plot, we see a connection between the weight and volume.
